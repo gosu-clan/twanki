@@ -1,5 +1,7 @@
 # Introduction
-Early stage concept of how to learn Japanese using customise Twitter feeds.
+Early stage concept of how to learn Japanese using customised Twitter feeds.
+
+![Example output from graph](http://puu.sh/ie3My/9ed6f5e163.png)
 
 This app consists of multiple steps:
 
